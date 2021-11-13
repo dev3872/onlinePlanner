@@ -11,3 +11,8 @@
     * Axios
 2. Node.js
     * express
+    * mongoose
+    * config
+    * jsonwebtoken
+    * express-validator
+    * bcryptjs
