@@ -7,7 +7,7 @@
 
 ### Tools Used
 1. React Typescript
-    *Bootstrap
-    *Axios
+    * Bootstrap
+    * Axios
 2. Node.js
-    *express
+    * express
