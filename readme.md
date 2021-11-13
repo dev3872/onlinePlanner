@@ -16,3 +16,5 @@
     * jsonwebtoken
     * express-validator
     * bcryptjs
+    * concurrently
+    * nodemon
