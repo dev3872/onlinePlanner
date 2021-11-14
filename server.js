@@ -1,5 +1,6 @@
 const express = require("express");
-const port = '4000';
+const config = require("config");
+const port = config.get('port');
 const users = require("./routes/api/users");
 const auth = require("./routes/api/auth");
 const connectDB = require("./config/db");

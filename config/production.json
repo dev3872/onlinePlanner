@@ -1,4 +1,5 @@
 {
-  "jwtSecret": "secret",
-  "mongoURI": "mongodb+srv://dev3872:dev3872@cluster0.vlr2x.mongodb.net/onlinePlanner?retryWrites=true&w=majority"
+	"port": 4000,
+	"jwtSecret": "secret",
+	"mongoURI": "mongodb+srv://dev3872:dev3872@cluster0.vlr2x.mongodb.net/onlinePlanner?retryWrites=true&w=majority"
 }
